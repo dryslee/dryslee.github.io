@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Yunseong Lee
+name: Dr. Yunseong Lee
 title: Wireless mobile communication researcher
 email: yslee@uclab.re.kr
 #website: www.github.com/sproogen/resume-theme
@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Wireless Communications
   - Cell-Free Networks
   - Network Optimization
-  - Resource Management
+  - Aerospace Networks
   - Artificial Intelligence
 
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -90,12 +90,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Korea Advanced Institute of Science and Technology
+        sub_title: Research Associate
+        caption: 2025 - Present
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            He is currentrly a post-doctoral researcher with Aerospace Communications & Applied Intelligence Lab in AI-Transformed Aerospace Research Group 
+
+      - layout: left
         title: Chung-Ang University
         sub_title: Part-time lecturer
         caption: 2016 - 2025
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             He has been teaching Python, the C programming language, and algorithms at Chung-Ang University since 2016.
+            
 
   
 
@@ -103,14 +112,14 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       
-      - D. Lee, Y. Jeon, <mark>Y. Lee</mark>, N.-N. Dao, W. Na, and S. Cho, "Energy and Density-Based Stable Election Routing Protocol for Wireless IoT Network," to appear in Elsevier Journal of Network and Computer Applications, 2025. <mark>IF 7.7</mark> <mark>Top 6.77%</mark>
-      - <mark>Y. Lee</mark>, C. Song, D. Lee, W. Noh, and S. Cho, "User-Centric Clustering and Beamforming Design for Satellite-Assisted Cell-Free Networks," to appear in IEEE Transactions on Network Science and Engineering, 2025. <mark>IF 6.7</mark> <mark>Top 3.86%</mark>
-      - C. Song, D. Lee, <mark>Y. Lee</mark>, W. Noh, and S. Cho, "Deep Learning based Energy-Efficient Transmission Control for STAR-RIS aided Cell- Free Massive MIMO Networks," Elsevier ICT Express, vol. 11, no. 11, pp. 341-347, April 2025. <mark>IF 4.1</mark> <mark>Top 23.1%</mark>
-      - <mark>Y. Lee</mark>, T. Ha, A. Khreishah, W. Noh, and S. Cho, "Delay-Controlled Bidirectional Traffic Setup Scheme to Enhance the Network Coding Opportunity in Real-Time Industrial IoT Networks," IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10559-10574, June 2023. <mark>IF: 10.238</mark> <mark>Top 5.48%</mark> 
-      - <mark>Y. Lee</mark>, A. Masood, W. Noh, and S. Cho, "DQN Based User Association Control in Hierarchical Mobile Edge Computing Systems for Mobile IoT Services," Elsevier Future Generation Computer Systems, vol. 137, pp. 53-69, December 2022. <mark>IF: 7.307</mark> <mark>Top 9.09%</mark>
-      - <mark>Y. Lee</mark>, S. Jeong, A. Masood, L. Park, N.-N. Dao, and S. Cho, "Trustful Resource Management for Service Allocation in Fog-Enabled Intelligent Transportation Systems," IEEE Access, vol. 8, pp. 147313-147322, August 2020. <mark>IF: 3.476</mark> <mark>Top 43%</mark>
-      - W. Na, S. Jang, <mark>Y. Lee</mark>, L. Park, N.-N. Dao, and S. Cho, "Frequency Resource Allocation and Interference Management in Mobile Edge Computing for an Internet of Things System," IEEE Internet of Things Journal, vol. 6, no. 3, pp. 4910-4920, June 2019. <mark>IF: 10.238</mark> <mark>Top 5.48%</mark>
-      - W. Na, <mark>Y. Lee</mark>, N.-N. Dao, D.-N. Vu, A. Masood, and S. Cho, "Directional Link Scheduling for Real-time Data Processing in Smart manufacturing System," IEEE Internet of Things Journal, vol. 5, no. 5, pp. 3661-3671, October 2018. <mark>IF: 10.238</mark> <mark>Top 5.48%</mark>
+      - D. Lee, Y. Jeon, <mark>Y. Lee</mark>, N.-N. Dao, W. Na, and S. Cho, "Energy and Density-Based Stable Election Routing Protocol for Wireless IoT Network," Elsevier Journal of Network and Computer Applications, vol. 242, no. 104237, October 2025. <mark>IF 8.0</mark> <mark>Top 8.33%</mark>
+      - <mark>Y. Lee</mark>, C. Song, D. Lee, W. Noh, and S. Cho, "User-Centric Clustering and Beamforming Design for Satellite-Assisted Cell-Free Networks," IEEE Transactions on Network Science and Engineering, vol. 12, no. 5, pp. 3467-3479, September/October 2025. <mark>IF 7.9</mark> <mark>Top 1.14%</mark>
+      - C. Song, D. Lee, <mark>Y. Lee</mark>, W. Noh, and S. Cho, "Deep Learning based Energy-Efficient Transmission Control for STAR-RIS aided Cell- Free Massive MIMO Networks," Elsevier ICT Express, vol. 11, no. 11, pp. 341-347, April 2025. <mark>IF 4.2</mark> <mark>Top 20.93%</mark>
+      - <mark>Y. Lee</mark>, T. Ha, A. Khreishah, W. Noh, and S. Cho, "Delay-Controlled Bidirectional Traffic Setup Scheme to Enhance the Network Coding Opportunity in Real-Time Industrial IoT Networks," IEEE Internet of Things Journal, vol. 10, no. 12, pp. 10559-10574, June 2023. <mark>IF: 8.9</mark> <mark>Top 3.87%</mark> 
+      - <mark>Y. Lee</mark>, A. Masood, W. Noh, and S. Cho, "DQN Based User Association Control in Hierarchical Mobile Edge Computing Systems for Mobile IoT Services," Elsevier Future Generation Computer Systems, vol. 137, pp. 53-69, December 2022. <mark>IF: 6.1</mark> <mark>Top 8.84%</mark>
+      - <mark>Y. Lee</mark>, S. Jeong, A. Masood, L. Park, N.-N. Dao, and S. Cho, "Trustful Resource Management for Service Allocation in Fog-Enabled Intelligent Transportation Systems," IEEE Access, vol. 8, pp. 147313-147322, August 2020. <mark>IF: 3.6</mark> <mark>Top 36%</mark>
+      - W. Na, S. Jang, <mark>Y. Lee</mark>, L. Park, N.-N. Dao, and S. Cho, "Frequency Resource Allocation and Interference Management in Mobile Edge Computing for an Internet of Things System," IEEE Internet of Things Journal, vol. 6, no. 3, pp. 4910-4920, June 2019. <mark>IF: 8.9</mark> <mark>Top 3.87%</mark> 
+      - W. Na, <mark>Y. Lee</mark>, N.-N. Dao, D.-N. Vu, A. Masood, and S. Cho, "Directional Link Scheduling for Real-time Data Processing in Smart manufacturing System," IEEE Internet of Things Journal, vol. 5, no. 5, pp. 3661-3671, October 2018. <mark>IF: 8.9</mark> <mark>Top 3.87%</mark> 
       - N.-N. Dao, D.-N. Vu, <mark>Y. Lee</mark>, S. Cho, C. Cho, and H. Kim, "Pattern-Identified Online Task Scheduling in Multi-tier Edge Computing for Industrial IoT Services," Mobile Information Systems, vol. 2018, Article ID 2101206, April 2018. 
       - W. Na, <mark>Y. Lee</mark>, J. Eom, S. Cho, and H.-H. Park, "Coexistence Scheme of Licensed-Assisted Access Using Long-Term Evolution and Wireless Local Area Network for Wireless Sensor Networks," International Journal of Distributed Sensor Networks, vol. 13, no.6, June 2017. 
 
