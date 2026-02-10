@@ -101,12 +101,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Korea Advanced Institute of Science and Technology
-        sub_title: Research Associate
-        caption: 2025 - Present
+        title: Duksung Women's University
+        sub_title: Assistant Professor
+        caption: 2026 - Present
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
-            He is currentrly a post-doctoral researcher with Aerospace Communications & Applied Intelligence Lab in AI-Transformed Aerospace Research Group 
+            He is currently an Assistant Professor with the School of Computer Science, Engineering, and Converged Technology, Duksung Women's University.
+      
+      - layout: left
+        title: Korea Advanced Institute of Science and Technology
+        sub_title: Research Associate
+        caption: 2025 - 2026
+        # link_text: boringcompany.com
+        description: | # this will include new lines to allow paragraphs
+            He was a post-doctoral researcher with Aerospace Communications & Applied Intelligence Lab in AI-Transformed Aerospace Research Group 
 
       - layout: left
         title: Chung-Ang University
