@@ -57,15 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   33, Samyang-ro 144-gil, Dobong-gu, Seoul, Republic of Korea
   
-  Room#133, ChaMirisa Memorial Building
+  Office: Rm. 132, ChaMirisa Memorial Building
   
-  <mark>Research Area</mark>
-  - Wireless Communications
-  - Cell-Free Networks
-  - Network Optimization
-  - Aerospace Networks
-  - Artificial Intelligence
-
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
@@ -77,6 +70,15 @@ content:
         He is currently an Assistant Professor with the School of Computer Science Engineering and Converged Technology, Duksung Women's University, Seoul.
         His current research interests include aerospace networks, wireless communication, handover control, AI-RAN, and cell-free networks.
         
+  - title: Research Area
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - Wireless Communications
+        - Cell-Free Networks
+        - Network Optimization
+        - Aerospace Networks
+        - Artificial Intelligence
+        - Internet of Things
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
