@@ -7,7 +7,10 @@ version: 2
 
 # Personal info
 name: Yunseong Lee
-title: Assistant Professor<br>School of Computer Science Engineering and Converged Technology, Duksung Women's University
+title: |
+  Assistant Professor
+  School of Computer Science Engineering and Converged Technology,
+  Duksung Women's University
 email: yunslee@duksung.ac.kr
 #website: www.github.com/sproogen/resume-theme
 
