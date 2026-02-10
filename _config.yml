@@ -46,13 +46,9 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: Biography
+#about_title: About_me
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Yunseong lee received B.S., M.S., and Ph.D. degrees in computer science and engineering from Chung-Ang University, Seoul, South Korea, in 2013, 2015, and 2025, respectively. 
-  From 2025 to 2026, he conducted his postdoctoral research at AI-Transformed Aerospace Research Center, Korea Advanced Institute of Science and Technology, Daejeon, South Korea.
-  He is currently an Assistant Professor with the School of Computer Science, Engineering, and Converged Technology, Duksung Women's University, Seoul.
-  His current research interests include aerospace networks, wireless communication, handover control, AI-RAN, and cell-free networks.
   
   <mark>Research Area</mark>
   - Wireless Communications
@@ -64,6 +60,15 @@ about_content: | # this will include new lines to allow paragraphs
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
+  - title: Biography
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        Yunseong lee received B.S., M.S., and Ph.D. degrees in computer science and engineering from Chung-Ang University, Seoul, South Korea, in 2013, 2015, and 2025, respectively. 
+        From 2025 to 2026, he conducted his postdoctoral research at AI-Transformed Aerospace Research Center, Korea Advanced Institute of Science and Technology, Daejeon, South Korea.
+        He is currently an Assistant Professor with the School of Computer Science, Engineering, and Converged Technology, Duksung Women's University, Seoul.
+        His current research interests include aerospace networks, wireless communication, handover control, AI-RAN, and cell-free networks.
+        
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
