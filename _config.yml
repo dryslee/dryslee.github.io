@@ -46,7 +46,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Biography
 about_profile_image: images/profile3.jpg
 about_content: | # this will include new lines to allow paragraphs
   Yunseong lee received B.S., M.S., and Ph.D. degrees in computer science and engineering from Chung-Ang University, Seoul, South Korea, in 2013, 2015, and 2025, respectively. 
