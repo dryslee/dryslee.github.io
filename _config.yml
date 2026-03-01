@@ -144,6 +144,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       
+      - D. Lee, C. Song, T.-V. Nguyen, J. Oh, <mark>Y. Lee</mark>, D. Won, W. Noh, and S. Cho, "Transmit Power Minimization with QoS Guarantees in STAR-RIS-aided RSMA Networks," to appear in IEEE Transactions on Green Communications and Networking, 2026.
       - D. Lee, Y. Jeon, <mark>Y. Lee</mark>, N.-N. Dao, W. Na, and S. Cho, "Energy and Density-Based Stable Election Routing Protocol for Wireless IoT Network," Elsevier Journal of Network and Computer Applications, vol. 242, no. 104237, October 2025. <mark>IF 8.0</mark> <mark>Top 8.33%</mark>
       - <mark>Y. Lee</mark>, C. Song, D. Lee, W. Noh, and S. Cho, "User-Centric Clustering and Beamforming Design for Satellite-Assisted Cell-Free Networks," IEEE Transactions on Network Science and Engineering, vol. 12, no. 5, pp. 3467-3479, September/October 2025. <mark>IF 7.9</mark> <mark>Top 1.14%</mark>
       - C. Song, D. Lee, <mark>Y. Lee</mark>, W. Noh, and S. Cho, "Deep Learning based Energy-Efficient Transmission Control for STAR-RIS aided Cell- Free Massive MIMO Networks," Elsevier ICT Express, vol. 11, no. 11, pp. 341-347, April 2025. <mark>IF 4.2</mark> <mark>Top 20.93%</mark>
