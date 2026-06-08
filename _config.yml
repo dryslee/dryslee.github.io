@@ -33,7 +33,7 @@ darkmode: false
 # Additional icon links
 additional_links:
 - title: Google scholar
-  icon: fas fa-globe
+  icon: fas fa-graduation-cap
 #fas fa-globe
   url: https://scholar.google.com/citations?hl=ko&user=yPI_QcMAAAAJ&hl=en
 # - title: another link
