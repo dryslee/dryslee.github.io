@@ -36,6 +36,9 @@ additional_links:
   icon: fas fa-graduation-cap
 #fas fa-globe
   url: https://scholar.google.com/citations?hl=ko&user=yPI_QcMAAAAJ&hl=en
+- title: ICoN Lab
+  icon: fas fa-globe
+  url: https://sites.google.com/view/ds-iconlab
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
